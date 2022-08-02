@@ -1,0 +1,15 @@
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\bin\Debug\net6.0\HeadFirstDesignPatterns.exe
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\bin\Debug\net6.0\HeadFirstDesignPatterns.deps.json
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\bin\Debug\net6.0\HeadFirstDesignPatterns.runtimeconfig.json
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\bin\Debug\net6.0\HeadFirstDesignPatterns.dll
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\bin\Debug\net6.0\HeadFirstDesignPatterns.pdb
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\obj\Debug\net6.0\HeadFirstDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\obj\Debug\net6.0\HeadFirstDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\obj\Debug\net6.0\HeadFirstDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\obj\Debug\net6.0\HeadFirstDesignPatterns.AssemblyInfo.cs
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\obj\Debug\net6.0\HeadFirstDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\obj\Debug\net6.0\HeadFirstDesignPatterns.dll
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\obj\Debug\net6.0\refint\HeadFirstDesignPatterns.dll
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\obj\Debug\net6.0\HeadFirstDesignPatterns.pdb
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\obj\Debug\net6.0\HeadFirstDesignPatterns.genruntimeconfig.cache
+C:\Users\Gerrit Van Leeuwen\Projects\HeadFirstDesignPatterns\obj\Debug\net6.0\ref\HeadFirstDesignPatterns.dll
